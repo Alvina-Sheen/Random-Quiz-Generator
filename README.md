@@ -3,7 +3,6 @@
 An accessibility-focused quiz platform built with **Flask**. This application combines **random question generation**, **voice narration**, and **live scoring** to create an intuitive and engaging experience for all users. The frontend is handled using **JavaScript** and **HTML/CSS**, while **Python** powers the backend logic.
 
 ---
-
 ## 📋 Features
 
 - 🎙️ **Voice Narration**  
