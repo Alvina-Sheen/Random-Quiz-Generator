@@ -34,8 +34,5 @@ An accessibility-focused quiz platform built with **Flask**. This application co
 - Chart.js (for visual score feedback)
 - Web Speech API (for voice output)
 
----
 
-## 📦 Getting Started
 
-1. Clone the repository:
