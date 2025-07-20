@@ -17,11 +17,8 @@ An accessibility-focused quiz platform built with **Flask**. This application co
 - 📊 **Score Visualization**  
   Real-time graphs show performance after each quiz.
 
-- 📱 **Responsive UI**  
-  Clean and mobile-friendly design for all screen sizes.
-
 - 🔁 **Replay Option**  
-  Restart quizzes with a fresh set of randomized questions.
+  Restart quizzes with a fresh set of randomized questions .
 
 ---
 
