@@ -5,30 +5,29 @@ An accessibility-focused quiz platform built with **Flask**. This application co
 ---
 ## 📋 Features
 
-- 🎙️ **Voice Narration**  
+-  **Voice Narration**  
   Reads questions aloud for enhanced accessibility.
 
-- ❓ **Random Quiz Generation**  
+-  **Random Quiz Generation**  
   Each quiz session pulls a unique set of questions.
 
-- ⏲️ **Timed Scoring**  
+-  **Timed Scoring**  
   Countdown timer adds a challenge and auto-submits answers.
 
-- 📊 **Score Visualization**  
+-  **Score Visualization**  
   Real-time graphs show performance after each quiz.
 
-- 🔁 **Replay Option**  
+-  **Replay Option**  
   Restart quizzes with a fresh set of randomized questions .
 
 ---
 
 ## 🚀 Technologies Used
 
-- Python (Flask)
-- HTML5 & CSS3
-- JavaScript
-- Chart.js (for visual score feedback)
-- Web Speech API (for voice output)
+- **Frontend**: HTML, CSS, JavaScript (Web Speech API)  
+- **Backend**: Python (Flask)  
+- **Visualization**: Matplotlib  
+- **Data Source**: CSV-based Question Bank
 
 
 
